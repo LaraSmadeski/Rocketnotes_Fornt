@@ -3,6 +3,8 @@ import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../../hooks/auth';
 import { api } from '../../service/api';
 
+import avatarPlaceholder from "../../assets/avatar_placeholder.svg";
+
 import { Container, Profile, Logout } from './styles';
 
 export function Header() {
