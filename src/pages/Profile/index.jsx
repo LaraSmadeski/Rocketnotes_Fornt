@@ -6,7 +6,7 @@ import { useAuth } from "../../hooks/auth";
 
 import { api } from '../../service/api';
 
-import avatarPlaceholder from "../../assets/avatar_placeholder (1).svg";
+import avatarPlaceholder from "../../assets/avatar_placeholder.svg";
 
 import { Input } from '../../components/Input';
 import { Button } from '../../components/Button';
